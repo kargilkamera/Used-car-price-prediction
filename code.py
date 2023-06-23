@@ -20,7 +20,7 @@ sns.set()
 # In[3]:
 
 
-raw_data = pd.read_csv('1.04.+Real-life+example.csv')
+raw_data = pd.read_csv('input_car_details.csv')
 raw_data.head()
 
 
